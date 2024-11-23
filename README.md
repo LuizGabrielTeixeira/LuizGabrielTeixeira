@@ -1,13 +1,14 @@
-# 👋 Welcome to My GitHub!
+# Welcome to My GitHub! 🤘🏼
 
-## 🧑‍💻 About Me
-Hi! I’m a Brazilian Computer Science student currently studying at *ISEP - IPP* in Portugal. Born in 2001 and raised in Brazil, I moved to Portugal in September to start my graduation.
+## 🧑🏼‍💻 About Me
+Hi! I’m a Brazilian Computer Science student currently studying at *ISEP - IPP* in Portugal. 
+Born in 2001 and raised in Brazil, I moved to Portugal in September 2023 to start my graduation.
 
 ## 🌱 Interests and Skills
 I enjoy studying and practicing:
-- *Java*: Exploring the fundamentals of object-oriented programming.
-- *Git*: Using version control for efficient and organized development.
-- *Unix/Linux*: Currently learning and practicing through WSL (Windows Subsystem for Linux) while deepening my understanding of Unix systems.
+- *Java* : Exploring the fundamentals of object-oriented programming.
+- *Git* : Using version control for efficient and organized development.
+- *Unix/Linux* : Currently learning and practicing through WSL (Windows Subsystem for Linux) while deepening my understanding of Unix systems.
 
 ## 🎯 My Goals
 I’m constantly working towards:
@@ -24,5 +25,6 @@ I’m constantly working towards:
 Feel free to explore my repositories and follow my learning journey. If you'd like to connect:
 - [LinkedIn](https://www.linkedin.com/in/gsargaco/)
 - [Instagram](https://www.instagram.com/gsargaco/)
+- [Email](mailto:luizgabriellgsst@gmail.com)
 
 Thanks for visiting! 🚀
