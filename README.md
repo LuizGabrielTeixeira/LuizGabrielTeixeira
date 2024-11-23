@@ -22,7 +22,7 @@ I’m constantly working towards:
 
 ## 🌟 Let’s Connect!
 Feel free to explore my repositories and follow my learning journey. If you'd like to connect:
-- [LinkedIn](#) (https://www.linkedin.com/in/gsargaco/)
-- [Instagram](#) (https://www.instagram.com/gsargaco/)
+- [LinkedIn](https://www.linkedin.com/in/gsargaco/)
+- [Instagram](https://www.instagram.com/gsargaco/)
 
 Thanks for visiting! 🚀
