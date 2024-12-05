@@ -27,5 +27,5 @@ Feel free to explore my repositories and follow my learning journey. If you'd li
 - [Instagram](https://www.instagram.com/gsargaco/)
 - [Email](mailto:luizgabriellgsst@gmail.com)
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizgabrielteixeira&label=Profile%20views&color=0e75b6&style=flat" alt="luizgabrielteixeira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizgabrielteixeira&label=Profile%20views&color=0e75b6&style=flat" alt="luizgabrielteixeira" /> </p>
 Thanks for visiting! 🚀
