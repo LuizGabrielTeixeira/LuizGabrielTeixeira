@@ -1,7 +1,7 @@
 # Welcome to My GitHub account! 🤘🏼
 
 ## 🧑🏼‍💻 About Me
-Hi, I'm a *Computer Engineering* student at ISEP, currently studying for the *CCNA* and *AWS Cloud Practitioner* at ISEP Academy.
+Hi, I'm a *Informatics Engineering* student at ISEP, currently studying for the *CCNA* and *AWS Cloud Practitioner* at ISEP Academy.
 
 ## 🌱 Interests and Skills
 I enjoy studying and practicing:
