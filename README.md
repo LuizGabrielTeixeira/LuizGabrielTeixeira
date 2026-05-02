@@ -1,7 +1,7 @@
 # Welcome to My GitHub account! 🤘🏼
 
 ## 🧑🏼‍💻 About Me
-Hi, I'm a *Informatics Engineering* student at ISEP, currently studying for the *CCNA* and *AWS Cloud Practitioner* at ISEP Academy.
+Hi, I'm a *Informatics Engineering* student at ISEP, currently studying for the *CCNA*, *AWS AI Practitioner* and *AWS Cloud Practitioner* at ISEP Academy.
 
 ## 🌱 Interests and Skills
 I enjoy studying and practicing:
@@ -13,19 +13,20 @@ I enjoy studying and practicing:
 
 ## 🎯 My Goals
 I’m constantly working towards:
-- Enhancing my programming, operating system, and networking skills.
+- Enhancing my programming, operating system, cloud and networking skills.
 - Learning more about collaborative/organized development and coding best practices.
 - Gaining experience to contribute to other students in the future.
 
 ## 🛠️ Tools and Technologies I’m Familiar With
-- *IntelliJ IDEA and VS Code*
-- *GitHub and GitHub Projects*
-- *Packet Tracer and Cisco devices*
+- *GitHub and GitHub Tools*
+- *Cisco networking devices*
 - *Linux and Windows*
+- *AWS*
 
 ## 🎓 Certifications:
 - ***Cisco Certified Network Associate (CCNA)*** - In progress
 - ***AWS Cloud Practitioner*** - In progress
+- ***AWS AI Practitioner*** - In progress
 
 ## 🌟 Let’s Connect!
 Feel free to explore my repositories and follow my learning journey :)  
