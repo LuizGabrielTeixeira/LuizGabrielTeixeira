@@ -1,30 +1,19 @@
 # Welcome to My GitHub account! 🤘🏼
 
 ## 🧑🏼‍💻 About Me
-Hi, I'm a *Informatics Engineering* student at ISEP, currently studying for the *CCNA*, *AWS AI Practitioner* and *AWS Cloud Practitioner* at ISEP Academy.
+Hi, I’m a Computer Engineering student at ISEP with a growing foundation in networking, cloud, Linux administration, and cybersecurity. Currently pursuing Fortinet NSE-4, AWS Cloud and AI Practitioner certifications while developing practical skills through hands-on projects.
 
-## 🌱 Interests and Skills
-I enjoy studying and practicing:
-- ***Java***: Deepening my knowledge of object-oriented programming.
-- ***Git***: Utilizing version control for organized development.
-- ***Linux***: Expanding my understanding and experience with Linux systems.
-- ***Bash***: Practicing automation for daily tasks and exploring the possibilities of scripting.
-- ***Cisco IOS***: Configuring and managing network devices. 
-
-## 🎯 My Goals
-I’m constantly working towards:
-- Enhancing my programming, operating system, cloud and networking skills.
-- Learning more about collaborative/organized development and coding best practices.
-- Gaining experience to contribute to other students in the future.
-
-## 🛠️ Tools and Technologies I’m Familiar With
-- *GitHub and GitHub Tools*
-- *Cisco networking devices*
-- *Linux and Windows*
-- *AWS*
+## I enjoy working with:
+- C
+- Java
+- Linux
+- Home labs
+- Automation
+- Networking devices
 
 ## 🎓 Certifications:
-- ***Cisco Certified Network Associate (CCNA)*** - In progress
+- ***Cisco Certified Network Associate (CCNA)***
+- ***Fortinet NSE4*** - In Progress
 - ***AWS Cloud Practitioner*** - In progress
 - ***AWS AI Practitioner*** - In progress
 
