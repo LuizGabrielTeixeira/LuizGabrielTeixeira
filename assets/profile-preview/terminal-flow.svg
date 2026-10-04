@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="170" viewBox="0 0 1080 170" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Understand. Configure. Automate. Observe.</title>
+  <rect x="1" y="1" width="1078" height="168" rx="16" fill="#080F14" stroke="#254438" stroke-width="2" />
+  <g font-family="'DejaVu Sans Mono', Consolas, monospace">
+    <text x="28" y="32" fill="#87A599" font-size="11" letter-spacing="1.4">$ cat approach.txt</text>
+    <path d="M51 62H1020" stroke="#284C3B" stroke-width="2" />
+    <circle r="3" fill="#4ADE80"><animateMotion dur="8s" repeatCount="indefinite" path="M51 62H1020" /></circle>
+    <g fill="#4ADE80"><circle cx="51" cy="62" r="5" /><circle cx="308" cy="62" r="5" /><circle cx="565" cy="62" r="5" /><circle cx="822" cy="62" r="5" /></g>
+    <g font-size="18" font-weight="700" fill="#ECFDF5"><text x="30" y="103">01 Understand</text><text x="287" y="103">02 Configure</text><text x="544" y="103">03 Automate</text><text x="801" y="103">04 Observe</text></g>
+    <g font-size="12" fill="#87A599"><text x="30" y="133">Networks &amp; dependencies</text><text x="287" y="133">Linux &amp; services</text><text x="544" y="133">Bash &amp; Ansible</text><text x="801" y="133">Monitor &amp; test restores</text></g>
+  </g>
+</svg>

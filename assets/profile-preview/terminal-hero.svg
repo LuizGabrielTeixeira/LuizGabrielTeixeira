@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="426" viewBox="0 0 1080 426" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Gabriel's infrastructure terminal</title>
+  <desc id="desc">Animated green terminal with a blinking cursor, a packet moving through a network and a summary of Luiz's networking and Linux experience.</desc>
+  <defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1H4" stroke="#4ADE80" stroke-opacity="0.025" /></pattern></defs>
+  <rect x="1" y="1" width="1078" height="424" rx="18" fill="#080F14" stroke="#254438" stroke-width="2" />
+  <rect x="2" y="2" width="1076" height="422" rx="17" fill="url(#scan)" />
+  <path d="M1 49H1079" stroke="#254438" /><circle cx="27" cy="25" r="5" fill="#F87171" /><circle cx="47" cy="25" r="5" fill="#FBBF24" /><circle cx="67" cy="25" r="5" fill="#4ADE80" />
+  <g font-family="'DejaVu Sans Mono', Consolas, monospace">
+    <text x="540" y="29" fill="#87A599" font-size="12" text-anchor="middle">luiz@portfolio: ~ / infrastructure</text>
+    <text x="997" y="29" fill="#4ADE80" font-size="11" text-anchor="end">bash</text>
+    <text x="38" y="92" fill="#4ADE80" font-size="15">$ whoami</text>
+    <text x="34" y="149" fill="#ECFDF5" font-size="43" font-weight="700" letter-spacing="-1">LUIZ GABRIEL</text>
+    <text x="38" y="182" fill="#22D3EE" font-size="17">Networking &amp; Cloud Infrastructure</text>
+    <text x="38" y="227" fill="#87A599" font-size="14">role     <tspan fill="#E2E8F0">Informatics Engineering student @ ISEP</tspan></text>
+    <text x="38" y="253" fill="#87A599" font-size="14">base     <tspan fill="#E2E8F0">Porto, Portugal</tspan></text>
+    <text x="38" y="279" fill="#87A599" font-size="14">cert     <tspan fill="#4ADE80">Cisco CCNA / certified</tspan></text>
+    <text x="38" y="305" fill="#87A599" font-size="14">next     <tspan fill="#FDE68A">Networking / Cloud / Infra internship</tspan></text>
+    <text x="38" y="350" fill="#4ADE80" font-size="15">$ connect --learn --build</text>
+    <rect x="270" y="336" width="9" height="18" fill="#4ADE80"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite" /></rect>
+  </g>
+  <path d="M664 81V351" stroke="#203D32" stroke-dasharray="3 7" />
+  <g font-family="'DejaVu Sans Mono', Consolas, monospace" text-anchor="middle">
+    <text x="852" y="102" fill="#87A599" font-size="11" letter-spacing="2">HANDS-ON / ALWAYS LEARNING</text>
+    <path d="M758 171H943M758 171L851 280L943 171" stroke="#2C7050" stroke-width="2" stroke-dasharray="5 6" />
+    <circle r="4" fill="#4ADE80"><animateMotion dur="7s" repeatCount="indefinite" path="M758 171H943L851 280Z" /></circle>
+    <rect x="709" y="144" width="99" height="55" rx="8" fill="#0F241C" stroke="#3C805A" />
+    <text x="758" y="167" fill="#4ADE80" font-size="13" font-weight="700">LINUX</text><text x="758" y="185" fill="#87A599" font-size="10">homelab</text>
+    <rect x="896" y="144" width="99" height="55" rx="8" fill="#10242B" stroke="#2B6671" />
+    <text x="945" y="167" fill="#22D3EE" font-size="13" font-weight="700">CISCO</text><text x="945" y="185" fill="#87A599" font-size="10">3-site lab</text>
+    <rect x="798" y="257" width="108" height="55" rx="8" fill="#0F241C" stroke="#3C805A" />
+    <text x="852" y="280" fill="#4ADE80" font-size="13" font-weight="700">AUTOMATE</text><text x="852" y="298" fill="#87A599" font-size="10">Bash · Ansible</text>
+    <text x="852" y="341" fill="#87A599" font-size="11">understand → build → test → repeat</text>
+  </g>
+  <path d="M1 377H1079" stroke="#254438" />
+  <g font-family="'DejaVu Sans Mono', Consolas, monospace" font-size="12"><text x="38" y="406" fill="#4ADE80">[ OPEN TO INTERNSHIPS ]</text><text x="708" y="406" fill="#87A599">Linux / Networks / Observability</text></g>
+</svg>
