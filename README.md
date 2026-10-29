@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/NEXT_HOP-INTERNSHIP-00BCEB?style=for-the-badge&amp;labelColor=071B30" alt="Seeking an internship" />
 </p>
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LuizGabrielTeixeira/badge.svg)](https://hub.xerj.org/contributors/LuizGabrielTeixeira)
+
 ## `whoami`
 
 I'm **Luiz Gabriel**, a **CCNA-certified Informatics Engineering student at ISEP**. I work with Linux, build Cisco network labs, and use automation and monitoring to understand and maintain infrastructure.
