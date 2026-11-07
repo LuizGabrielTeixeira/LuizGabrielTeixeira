@@ -20,6 +20,7 @@
   <a href="https://www.credly.com/badges/eb7db229-ce66-423c-b955-08ab2ee8a014/public_url"><img src="https://img.shields.io/badge/CISCO-CCNA_CERTIFIED-00BCEB?style=for-the-badge&amp;logo=cisco&amp;logoColor=white&amp;labelColor=071B30" alt="Cisco CCNA certified — verify credential on Credly" /></a>
   <img src="https://img.shields.io/badge/VALID-Aug_2026_to_Aug_2029-6CC04A?style=for-the-badge&amp;labelColor=071B30" alt="CCNA valid from August 2026 to August 2029" />
   <img src="https://img.shields.io/badge/NEXT_HOP-INTERNSHIP-00BCEB?style=for-the-badge&amp;labelColor=071B30" alt="Seeking an internship" />
+  <a href="https://tokscale.ai/u/LuizGabrielTeixeira"><img alt="Tokscale Stats for @LuizGabrielTeixeira" src="https://tokscale.ai/api/embed/LuizGabrielTeixeira/svg?graph=1&rank=total&tokens=full&cost=compact" /></a>
 </p>
 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LuizGabrielTeixeira/badge.svg)](https://hub.xerj.org/contributors/LuizGabrielTeixeira)
